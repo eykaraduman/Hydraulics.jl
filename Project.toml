@@ -1,0 +1,4 @@
+name = "Hydraulics"
+uuid = "fedf061c-c84f-4582-8021-ad8e03d4c3ef"
+authors = ["Esen Yalım Karaduman <esen.yalim@gmail.com>"]
+version = "0.1.0"
